@@ -2,7 +2,7 @@
 ⭐Akash Kunder — a Full-Stack Developer skilled in MERN Stack Interested in developing interactive and responsive web apps.
 
 # 🔑 Portfolio
-Reach me at: https://akashkunder.vercel.app/
+Check out my portfolio : https://akashkunder.vercel.app/
 
 
 ## 🌐 Socials:
